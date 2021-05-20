@@ -1,4 +1,4 @@
-# Surfs_up: How's the weather
+# Surfs up: How's the weather
 
 As we plan out our business venture in paradise, a surf and ice cream shop, we've been advised to thoroughly look at weather patterns in the island more specifically temperature and percipitation. During this session we reviewed percipitation and all looked normal for a tropical island, like Oahu, HI. There is a visible winter with rain averaging 1 to 2 inches from February to March, and a monsoon season, typical for the Pacific in August and September. Throughout the year there is some percipitation, not too much, just enough to keep the weather warm and the plants green. In reviewing the temperatures for June and December we hope to find a that Oahu is a great place for our surf and ice cream shop. 
 
